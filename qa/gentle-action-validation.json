@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "user_request": "Remove the exaggerated jump and replace it with another completed animation.",
+  "operation": "Replace jumping slot with already-approved waving frames",
+  "changed_row": 4,
+  "source_row": 3,
+  "source_frame_order": [
+    0,
+    1,
+    2,
+    3,
+    0
+  ],
+  "unchanged_rows_byte_identical": true,
+  "look_rows_byte_identical": true,
+  "replacement_frames_byte_identical_to_source": true,
+  "unused_cells_transparent": true,
+  "chroma_cleanup_repeated": false,
+  "prior_spritesheet_sha256": "67dc49895bf21f688f5cdc494f6342a02deb1e577e8c4b18e5b7f04e5ec0354d",
+  "revised_spritesheet_sha256": "38ca0b32d8e0aa1af77662f84f4a8d50e647ae3351bc1ac50572b223b74d4c45",
+  "reviewed_at": "2026-09-12T16:46:53.662173+00:00",
+  "visual_qa": "pass",
+  "reviewed_by": "wave_replacement_qa independent worker",
+  "qa_note": "A gentle wave with both feet on the same baseline; the head, ears, guitar, tie, and outfit remain complete and consistent, with a natural loop transition.",
+  "user_request_language": "English translation of the original request"
+}

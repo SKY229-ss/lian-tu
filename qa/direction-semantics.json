@@ -1,0 +1,161 @@
+{
+  "ok": true,
+  "reviewed_by": "Independent normal-size row9 and row10 reviewers",
+  "directions": [
+    {
+      "degree": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "reason": "Raised chin, exposed lower face and upward gaze clearly differ from neutral",
+      "horizontal_evidence": "Face centered",
+      "vertical_evidence": "Eyes and nose aim upward with lifted chin"
+    },
+    {
+      "degree": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Small clockwise head turn retains upward gaze",
+      "horizontal_evidence": "Nose/pupils slightly screen-right of head center",
+      "vertical_evidence": "Raised chin and upward eyes"
+    },
+    {
+      "degree": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Balanced rightward face turn and upward pitch",
+      "horizontal_evidence": "Nose/pupils and cheek orientation farther right",
+      "vertical_evidence": "Lifted chin and upward eye line"
+    },
+    {
+      "degree": "067.5",
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "mostly right with subtle upward axis",
+      "reason": "Coherent transition into090; upward component restrained at normal size",
+      "horizontal_evidence": "Face plane/nose/pupils clearly right",
+      "vertical_evidence": "Chin slightly above level, less upward than045"
+    },
+    {
+      "degree": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "reason": "Unmistakably lateral cardinal",
+      "horizontal_evidence": "Nose/pupils clearly screen-right of head center",
+      "vertical_evidence": "Level chin, no vertical cue"
+    },
+    {
+      "degree": "112.5",
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "right with subtle downward axis",
+      "reason": "Coherent first lowering step after090",
+      "horizontal_evidence": "Face/nose/gaze clearly right",
+      "vertical_evidence": "Chin and eye line begin lowering relative to090"
+    },
+    {
+      "degree": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Readable bowed rightward face diagonal",
+      "horizontal_evidence": "Nose/face plane on screen-right",
+      "vertical_evidence": "Lowered chin, downcast eyes, more crown visible"
+    },
+    {
+      "degree": "157.5",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Continues toward down without reversal",
+      "horizontal_evidence": "Rightward face turn reduced toward180",
+      "vertical_evidence": "Deepest bow of row, downcast gaze, prominent crown"
+    },
+    {
+      "degree": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down-center",
+      "reason": "Deep centered bow is unmistakably downward and distinct from neutral.",
+      "horizontal_evidence": "Nose and face centered without left/right bias.",
+      "vertical_evidence": "Lowered chin, downcast eyes and prominent crown."
+    },
+    {
+      "degree": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Restrained left turn preserves the bow.",
+      "horizontal_evidence": "Nose, eyes and face plane shift screen-left.",
+      "vertical_evidence": "Chin and gaze clearly lowered."
+    },
+    {
+      "degree": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Balanced left turn and downward pitch.",
+      "horizontal_evidence": "Face, nose and cheek orientation point screen-left.",
+      "vertical_evidence": "Lowered chin and downcast eyes."
+    },
+    {
+      "degree": "247.5",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "down-left approaching left",
+      "reason": "Natural progression toward left cardinal. Blind isolated vertical-axis majority differs; accepted after labeled normal-size loop review because the dominant left axis and coherent pose progression remain intact.",
+      "horizontal_evidence": "Head and gaze strongly screen-left.",
+      "vertical_evidence": "Chin modestly below level."
+    },
+    {
+      "degree": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "left",
+      "reason": "Unmistakable level screen-left cardinal.",
+      "horizontal_evidence": "Nose tip, pupils and face plane clearly screen-left.",
+      "vertical_evidence": "Level chin."
+    },
+    {
+      "degree": "292.5",
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "First upward pitch after left cardinal. Blind isolated vertical-axis majority differs; accepted after labeled normal-size loop review because the dominant left axis and coherent pose progression remain intact.",
+      "horizontal_evidence": "Nose, gaze and face surface clearly screen-left.",
+      "vertical_evidence": "Chin and eye line begin lifting."
+    },
+    {
+      "degree": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Both axes readable; smoothly approaches up.",
+      "horizontal_evidence": "Face screen-left with reduced lateral strength.",
+      "vertical_evidence": "Raised chin and upward gaze stronger than292.5."
+    },
+    {
+      "degree": "337.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left approaching up",
+      "reason": "Visible slight left component one step before000.",
+      "horizontal_evidence": "Nose and gaze slightly screen-left of center.",
+      "vertical_evidence": "Lifted chin and upward-facing eyes."
+    }
+  ],
+  "continuity": {
+    "row9": {
+      "verdict": "pass",
+      "reason": "Head/gaze advance clockwise; feet, torso, baseline, guitar, ribbons and scale stable; metrics no warnings"
+    },
+    "row10": {
+      "verdict": "warning",
+      "reason": "Clockwise progression without reversal, prop teleport, attachment break or registration snap. 157.5→180 smooth. 337.5→000 area ratio1.151 and center delta4.61px appear as small silhouette expansion into straight-up, not conspicuous scale jump."
+    }
+  },
+  "hard_failure": null
+}

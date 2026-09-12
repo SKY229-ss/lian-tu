@@ -1,0 +1,32 @@
+{
+  "pet": {
+    "id": "lian-tu",
+    "displayName": "Lian Tu",
+    "description": "A cheerful red-haired, golden-eyed guitar girl with large feathered ears, a long tie, a jacket, and flowing ribbons.",
+    "spriteVersionNumber": 2,
+    "spritesheetPath": "spritesheet.webp"
+  },
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208
+  },
+  "standard_state_slots": 9,
+  "look_directions": 16,
+  "revision": "1.0.0",
+  "jumping_override": {
+    "action": "gentle wave",
+    "source_state": "waving",
+    "frame_order": [
+      0,
+      1,
+      2,
+      3,
+      0
+    ]
+  },
+  "spritesheet_sha256": "38ca0b32d8e0aa1af77662f84f4a8d50e647ae3351bc1ac50572b223b74d4c45"
+}
