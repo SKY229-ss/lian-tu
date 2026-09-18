@@ -1,8 +1,8 @@
 # Lian Tu
 
-A cheerful guitar girl for your desktop, with red hair, golden eyes, and oversized feathered ears.
+A cheerful guitar girl for codex pets.
 
-Directed and refined by [@SKY229-ss](https://github.com/SKY229-ss), with Codex assisting in character adaptation, animation, and packaging. This project presents the finished journey from a visual reference to an installable desktop companion.
+Directed and refined by [@SKY229-ss](https://github.com/SKY229-ss), with Codex assisting. This project presents the finished journey from a visual reference to an installable desktop companion.
 
 <p align="center">
   <img src="media/jumping.gif" width="192" alt="Lian Tu waving gently with both feet planted">
@@ -71,8 +71,3 @@ Select **Lian Tu** in a Codex desktop app that supports custom pets.
 | Animation state slots | 9, including the jump-to-wave replacement |
 | Gaze directions | 16, spaced at 22.5° intervals |
 
-## Creation notes
-
-The character was adapted from a supplied visual reference. This repository showcases the desktop pet's design choices, animation arrangement, iteration, and integration. Image generation and validation were assisted by Codex. The original reference image is not included.
-
-See the [changelog](CHANGELOG.md) and [quality notes](docs/QUALITY.md) for details.
